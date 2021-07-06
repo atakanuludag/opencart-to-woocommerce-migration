@@ -44,8 +44,3 @@ Files to be run respectively:
 - main-category-install.php
 - sub-category-install.php
 - run.php **(press the buton on the page)**
-<br/><br/>
-<hr/>
-<a href="http://www.atknuludag.com" target="_blank"><img width: 50px; src="http://www.atknuludag.com/wp-content/uploads/2016/08/favicon.png" alt="My blog atknuludag.com" /></a>
-<br/>
-<i>Developer by Atakan Yasin Uludağ</i>
